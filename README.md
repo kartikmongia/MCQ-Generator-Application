@@ -29,6 +29,8 @@ Shuffle Answer Choices: It shuffles the answer choices to avoid any bias.
 Append MCQ to List: It appends the generated MCQ (question stem, answer choices, and correct answer) to the list of MCQs.
 
 Return MCQs: Finally, it returns the list of generated MCQs.
+![mcd](https://github.com/kartikmongia/MCQ-Generator-Application/assets/135815798/eb15c4e4-a48e-4a32-9cff-c34876aa5224)
+
 
 This code can to be a useful tool for automatically generating multiple-choice questions from text data, which could be helpful for educational purposes or generating practice quizzes. You can discuss how this functionality can save time for educators or content creators and how it leverages natural language processing techniques to automate the process. Additionally, you can mention potential improvements or customization options, such as adjusting the number of distractors or incorporating more sophisticated language processing techniques.
 
