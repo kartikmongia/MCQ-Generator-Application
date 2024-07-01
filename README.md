@@ -1,5 +1,5 @@
 Question-MCQS-Generator-Using-Machine-learning-NLP
-Introduction:
+Introduction:  ![mc](https://github.com/kartikmongia/MCQ-Generator-Application/assets/135815798/efeba574-6fde-4759-8852-4777558e793b)
 
 Our project aims to generate multiple-choice questions (MCQs) using machine learning and natural language processing (NLP) techniques. MCQs are widely used in educational assessments to evaluate students' understanding of a given topic. By automating the generation of MCQs, educators can save time and effort while ensuring the quality and relevance of the questions.
 
