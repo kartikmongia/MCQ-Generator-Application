@@ -31,3 +31,5 @@ Append MCQ to List: It appends the generated MCQ (question stem, answer choices,
 Return MCQs: Finally, it returns the list of generated MCQs.
 
 This code can to be a useful tool for automatically generating multiple-choice questions from text data, which could be helpful for educational purposes or generating practice quizzes. You can discuss how this functionality can save time for educators or content creators and how it leverages natural language processing techniques to automate the process. Additionally, you can mention potential improvements or customization options, such as adjusting the number of distractors or incorporating more sophisticated language processing techniques.
+
+https://github.com/kartikmongia/MCQ-Generator-Application/issues/1#issue-2383865982
